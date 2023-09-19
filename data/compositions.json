@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "d": "Joseph Haydn's Symphony No. 1 is also known as The Clock because of the ticking rhythm in the second movement.",
+    "t": [
+      "haydn"
+    ]
+  },
+  {
+    "id": "2",
+    "d": "The William Tell Overture was part of the last of Gioacchino Rossini's 39 operas. He based the opera on Friedrich Schiller's drama on the 14th century Swiss hero but the overture was borrowed from his own earlier opera Elizabeth, Queen of England.",
+    "t": [
+      "rossini",
+      "opera"
+    ]
+  },
+  {
+    "id": "3",
+    "d": "Gustav Mahler's Symphony No. 8 is also known as Symphony of a Thousand. The name was devised by his impresario and has stuck since, but Mahler never approved of it.",
+    "t": [
+      "mahler"
+    ]
+  },
+  {
+    "id": "4",
+    "d": "The premiere of Igor Stravinsky's The Rite of Spring on 29 May 1913 caused an uproar in the audience, with two factions attacking each other, and the orchestra, with vegetables and other objects.",
+    "t": [
+      "stravinsky"
+    ]
+  },
+  {
+    "id": "5",
+    "d": "Maurice Ravel's Bolero has been performed at various tempi over the years, leading to performance times ranging from 12 minutes to 18 minutes.",
+    "t": [
+      "ravel",
+      "bolero"
+    ]
+  },
+  {
+    "id": "6",
+    "d": "Felix Mendelssohn's Wedding March was first played at Princess Victoria's wedding in 1858, which started the trend of it being played at weddings.",
+    "t": [
+      "mendelssohn"
+    ]
+  },
+  {
+    "id": "7",
+    "d": "Neil Armstrong took a recording of Antonín Dvořák's New World Symphony on the Apollo 11 mission - the first moon landing.",
+    "t": [
+      "Dvořák"
+    ]
+  },
+  {
+    "id": "8",
+    "d": "",
+    "t": [
+      "Schubert"
+    ]
+  }
+
+]
