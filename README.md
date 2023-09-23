@@ -10,7 +10,7 @@ to try it locally.
 
 ### Getting your credentials
 - Set up your Twitter developer account, create a Project and an App inside it
-- Note down your
+- Note down your consumer key and secret
 - Create another Twitter account which will act as the bot. There are other approaches possible but this is the cleanest.
 - Use Twurl https://github.com/twitter/twurl to authorize your app to be able to publish on behalf of the Bot account.
   Good instructions are in https://medium.com/@ponyenanu/how-to-associate-your-twitter-bot-with-a-dedicated-account-bbc1b154ba4e
