@@ -1,4 +1,4 @@
-### Classical Music Trivia BotTODO
+### Classical Music Trivia Bot
 This Twitter bot tweets a classical music related titbit.
 
 It can be deployed as a Google cloud function. The tweet is currently derived based on the day, and Twitter won't let
@@ -8,7 +8,7 @@ you publish the same tweet again - so ensure that the periodicity is 24 hours at
 The bot uses Tweepy to interact with the Twitter API. Firebase is the data store, and you can use the Firebase emulator
 to try it locally.
 
-## Getting your credentials
+### Getting your credentials
 - Set up your Twitter developer account, create a Project and an App inside it
 - Note down your
 - Create another Twitter account which will act as the bot. There are other approaches possible but this is the cleanest.
@@ -21,7 +21,7 @@ stored in ~/.twurlrc
 export CONSUMER_KEY=\
 export CONSUMER_SECRET=\
 export ACCESS_TOKEN=\
-export ACCESS_SECRET=\
+export ACCESS_SECRET=
 
-## Loading the data in Firebase
+### Loading the data in Firebase
 TODO
