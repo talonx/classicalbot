@@ -24,7 +24,8 @@
     "id": "4",
     "d": "Hildegard of Bingen is one of the few known women composers from the Middle Ages. She was a nun, philosopher, mystic, and a medical writer, and she was declared a saint of the Roman Catholic Church in 2012.",
     "t": [
-      "hildegardofbingen"
+      "hildegardofbingen",
+      "musichistory"
     ]
   },
   {
@@ -81,7 +82,8 @@
     "id": "12",
     "d": "The premiere of Igor Stravinsky's The Rite of Spring on 29 May 1913 caused an uproar in the audience, with two factions attacking each other, and the orchestra, with vegetables and other objects.",
     "t": [
-      "stravinsky"
+      "stravinsky",
+      "musichistory"
     ]
   },
   {
@@ -108,9 +110,9 @@
   },
   {
     "id": "16",
-    "d": "",
+    "d": "paganini",
     "t": [
-      "schubert"
+      "Niccolo Paganini was widely believe to have sold his soul to the devil in exchange for his virtuosic violin playing abilities. His stage appearance added to these rumours."
     ]
   },
   {
@@ -125,6 +127,79 @@
     "d": "American composer John Cage's composition '4 minutes 33 seconds' is entirely silent. It was first performed in August 1952. Cage redefined silence as 'the absence of intended sounds.'",
     "t": [
       "johncage"
+    ]
+  },
+  {
+    "id": "19",
+    "d": "The late Rennaisance composer Orlando de Lasso was apparently was kidnapped three times because of his beautiful singing voice in his early years.",
+    "t": [
+      "orlandodelasso",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "21",
+    "d": "The six basic voice types in the operatic system of classification from the highest to the lowest are soprano, mezzo-soprano, contralto, tenor, baritone, and bass.",
+    "t": [
+      "opera"
+    ]
+  },
+  {
+    "id": "22",
+    "d": "The Baroque composer Jean-Baptiste Lully accidentally hit his foot with his wooden baton while conducting. The injury was not treated correctly and he died from a gangrene infection. The 'baton' in those was days was a long stick pounded on the ground.",
+    "t": [
+      "lully"
+    ]
+  },
+  {
+    "id": "23",
+    "d": "Antonio Vivaldi was also known as the Red Priest because of his hair colour and because he was ordained as a priest. 'Red Priest' is also a contemporary Baroque instrumental group formed by Piers Adams.",
+    "t": [
+      "vivaldi",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "24",
+    "d": "The Baroque composer Giuseppe Tartini wrote his Violin Sonata in G minor after being inspired a dream in which he saw the devil play. The sonata is known for its technically difficult passages.",
+    "t": [
+      "tartini",
+      "music history"
+    ]
+  },
+  {
+    "id": "25",
+    "d": "The Guinness book of world records credits the Baroque composer Georg Philip Telemann as the most prolific composer, with over 3,000 surviving works.",
+    "t": [
+      "telemann"
+    ]
+  },
+  {
+    "id": "26",
+    "d": "Franz Joseph Haydn's Symphony No. 45 is also known as the Farewell Symphony. In the last movement, the musicians gradually leave the stage section by section until the first chair violinists remain.",
+    "t": [
+      "haydn"
+    ]
+  },
+  {
+    "id": "27",
+    "d": "Ludwig van Beethoven's Symphony No. 3, also known as 'Eroica'. which means 'heroic', was originally dedicated to Napoleon Bonaparte, but later withdrew it.",
+    "t": [
+      "beethoven"
+    ]
+  },
+  {
+    "id": "29",
+    "d": "Barbara Strozzi, an Italian composer and singer of the Baroque period, had more secular music in print than any other composer of the era.",
+    "t": [
+      "strozzi"
+    ]
+  },
+  {
+    "id": "30",
+    "d": "George Frideric Handel's best known work Messiah was composed in 1741 and premiered in Dublin in 1742. This English oratorio consists of 53 movements in 3 parts.",
+    "t": [
+      "handel"
     ]
   }
 ]
