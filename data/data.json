@@ -189,17 +189,89 @@
     ]
   },
   {
-    "id": "29",
+    "id": "28",
     "d": "Barbara Strozzi, an Italian composer and singer of the Baroque period, had more secular music in print than any other composer of the era.",
     "t": [
       "strozzi"
     ]
   },
   {
-    "id": "30",
+    "id": "29",
     "d": "George Frideric Handel's best known work Messiah was composed in 1741 and premiered in Dublin in 1742. This English oratorio consists of 53 movements in 3 parts.",
     "t": [
       "handel"
+    ]
+  },
+  {
+    "id": "30",
+    "d": "Apart from Beethoven's Symphony No. 6, 'Pastoral Symphony' is also the named given to Ralph Vaughan Williams' Symphony No. 3, Alan Rawsthorne's Symphony No. 2, and Alexander Glazunov's Symphony No. 7",
+    "t": [
+      "beethoven",
+      "vaughanwilliams",
+      "glazunov",
+      "rawsthorne"
+    ]
+  },
+  {
+    "id": "31",
+    "d": "I always said God was against art and I still believe it - English composer Edward Elgar (1857-1934)",
+    "t": [
+      "elgar"
+    ]
+  },
+  {
+    "id": "32",
+    "d": "Nadia Boulanger was one of the first women to conduct major orchestras in the US and Europe. Starting as a student at the Paris Conservatory, she went on to influence generations of other composers throughout her life as a teacher.",
+    "t": [
+      "boulanger",
+      "womeninmusic"
+    ]
+  },
+  {
+    "id": "33",
+    "d": "Fontane di Roma (Fountains of Rome) is a tone poem by Ottorino Respighi, where each movement depicts a setting at one of Rome's fountains at different times of the day. it is the first of his three tone poems about Rome.",
+    "t": [
+      "respighi"
+    ]
+  },
+  {
+    "id": "34",
+    "d": "French composer Camille Saint-Saëns wrote his now-famous suite 'The Carnival of the Animals' in a small Austrian village. He forbade the work's publication during his lifetime, except for one movement, fearing it would damage his 'serious composer' image.",
+    "t": [
+      "saint-saëns"
+    ]
+  },
+  {
+    "id": "35",
+    "d": "Richard Wagner's opera Parsifal was not allowed to be performed outside the Bayreuth Festival Theatre for the first 20 years of its existence. Wagner imposed this condition in order to secure future income for his family, and control the way it was performed.",
+    "t": [
+      "wagner",
+      "parsifal",
+      "opera"
+    ]
+  },
+  {
+    "id": "36",
+    "d": "Soprano Marie Selika Williams was the first black artist to perform at the White House in 1878.",
+    "t": [
+      "marieselikawilliams",
+      "opera"
+    ]
+  },
+  {
+    "id": "37",
+    "d": "American violin virtuoso Hilary Hahn began playing at the age of 3, and made her major orchestral debut at the age of 12 with the Baltimore Symphony Orchestra, and her European debut 3 years later.",
+    "t": [
+      "hilaryhahn",
+      "violinists"
+    ]
+  },
+  {
+    "id": "38",
+    "d": "The famed classical pianist Martha Argerich performed her debut concert when she was 8 years old.",
+    "t": [
+      "marthaargerich",
+      "pianists"
     ]
   }
 ]
