@@ -24,7 +24,7 @@ export ACCESS_TOKEN=\
 export ACCESS_SECRET=
 
 ### Loading the data in Firebase
-Invoke the fuction write(db) and run
+Add a line to invoke the fuction write(db) inside the main.py and run
 
 ```
 GOOGLE_APPLICATION_CREDENTIALS=key.json python3 main.py
