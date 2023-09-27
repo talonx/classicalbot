@@ -24,4 +24,9 @@ export ACCESS_TOKEN=\
 export ACCESS_SECRET=
 
 ### Loading the data in Firebase
-TODO
+Invoke the fuction write(db) and run
+
+```
+GOOGLE_APPLICATION_CREDENTIALS=key.json python3 main.py
+```
+where key.json is your GCP service account JSON key with permissions for writing to Firebase.
