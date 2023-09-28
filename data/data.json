@@ -268,10 +268,48 @@
   },
   {
     "id": "38",
-    "d": "The famed classical pianist Martha Argerich performed her debut concert when she was 8 years old.",
+    "d": "The famed Argentine classical pianist Martha Argerich performed her debut concert when she was 8 years old.",
     "t": [
       "marthaargerich",
       "pianists"
+    ]
+  },
+  {
+    "id": "39",
+    "d": "Verdi's opera La Traviata was based upon the play The Lady of the Camellias by Alexandre Dumas. It is the only one of Verdi's operas to be set entirely indoors.",
+    "t": [
+      "opera",
+      "verdi"
+    ]
+  },
+  {
+    "id": "40",
+    "d": "'The miracle which God let be born in Salzburg' - was how Mozart's father Leopold described him. Himself a deputy concertmaster at the prince-archbishop's court at Salzburg, Leopold Mozart was instrumental in ensuring his talented son's early musical education.",
+    "t": [
+      "mozart",
+      "leopoldmozart"
+    ]
+  },
+  {
+    "id": "41",
+    "d": "Modest Mussorgsky's orchestral work Night on Bald Mountain was never performed during the composer's lifetime. It became well known after being used in the Disney film Fantasia (1940). ",
+    "t": [
+      "mussorgsky"
+    ]
+  },
+  {
+    "id": "42",
+    "d": "George Frideric Handel's Zadok the Priest has been performed at every coronation of the British monarch since 1727.",
+    "t": [
+      "handel"
+    ]
+  },
+  {
+    "id": "43",
+    "d": "The German poet and music critic Ludwig Rellstab was responsible for the nickname Moonlight Sonata for Beethoven's piano sonata No. 14 in C-sharp minor.",
+    "t": [
+      "beethoven",
+      "moonlightsonata"
     ]
   }
 ]
