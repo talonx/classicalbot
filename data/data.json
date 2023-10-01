@@ -311,5 +311,45 @@
       "beethoven",
       "moonlightsonata"
     ]
+  },
+  {
+    "id": "44",
+    "d": "Jacopo Peri, also known as Il Zazzerino (the blond one), was one of the transitional composers between the Renaissance and the Baroque period. He is credited with writing the first opera - Dafne.",
+    "t": [
+      "jacopoperi",
+      "baroque",
+      "opera"
+    ]
+  },
+  {
+    "id": "45",
+    "d": "Frédéric Chopin wrote 59 compositions called Mazurkas for the piano which are based on a traditional Polish folk dance, called 'mazur'.",
+    "t": [
+      "chopin",
+      "mazurka"
+    ]
+  },
+  {
+    "id": "46",
+    "d": "In German, 'Gesamtkunstwerk' means 'total work of art' or 'synthesis of the arts'. Wagner used these ideas in his essays and books, although he did not develop the term, and tried to realize these ideals in Der Ring des Nibelungen",
+    "t": [
+      "wagner"
+    ]
+  },
+  {
+    "id": "47",
+    "d": "Alfred Einstein, musicologist and music editor, is best known for his editing of the first major revision of the Köchel catalogue. The Köchel catalogue is the catalogue of Mozart's works, and it's where his compositions get the 'K' prefix from",
+    "t": [
+      "alfredeinstein",
+      "mozart"
+    ]
+  },
+  {
+    "id": "48",
+    "d": "'Truly, Schubert possesses the divine fire' - said Beethoven on his deathbed, after examining a collection of Schubert's songs",
+    "t": [
+      "schubert",
+      "beethoven"
+    ]
   }
 ]
