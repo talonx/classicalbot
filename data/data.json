@@ -164,7 +164,7 @@
     "d": "The Baroque composer Giuseppe Tartini wrote his Violin Sonata in G minor after being inspired a dream in which he saw the devil play. The sonata is known for its technically difficult passages.",
     "t": [
       "tartini",
-      "music history"
+      "musichistory"
     ]
   },
   {
@@ -350,6 +350,43 @@
     "t": [
       "schubert",
       "beethoven"
+    ]
+  },
+  {
+    "id": "48",
+    "d": "'Truly, Schubert possesses the divine fire' - said Beethoven on his deathbed, after examining a collection of Schubert's songs",
+    "t": [
+      "schubert",
+      "beethoven"
+    ]
+  },
+  {
+    "id": "48",
+    "d": "Tchaikovsky's opera Eugene Onegin is based Alexander Pushkin's novel of the same name. The first performance in 1879 was in Moscow",
+    "t": [
+      "tchaikovsky"
+    ]
+  },
+  {
+    "id": "49",
+    "d": "'Mon plaisir' - my pleasure - was Claude Debussy's reply when a professor at the Paris Conservatory asked him what rules he followed. ",
+    "t": [
+      "debussy"
+    ]
+  },
+  {
+    "id": "50",
+    "d": "Frédéric Chopin, the virtuoso pianist of the Romantic era, gave only 30 public performances. He preferred salons or his own apartment for playing",
+    "t": [
+      "chopin"
+    ]
+  },
+  {
+    "id": "51",
+    "d": "Guido of Arezzo, an Italian of the 11th century, is often credited as the developer of the modern staff notation. ",
+    "t": [
+      "guidoofarezzo",
+      "musichistory"
     ]
   }
 ]
