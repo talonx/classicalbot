@@ -383,10 +383,50 @@
   },
   {
     "id": "51",
-    "d": "Guido of Arezzo, an Italian of the 11th century, is often credited as the developer of the modern staff notation. ",
+    "d": "Guido of Arezzo, an Italian of the 11th century, is often credited as the developer of the modern staff notation",
     "t": [
       "guidoofarezzo",
       "musichistory"
+    ]
+  },
+  {
+    "id": "52",
+    "d": "As a child, George Frideric Handel used to secretly play the clavichord that he kept in the attic while his family was sleeping. His father forbade any instrument in the house and was opposed to Handel becoming a musician, until the latter caught the eye of Duke Johann Adolf 1 with a church organ performance",
+    "t": [
+      "handel"
+    ]
+  },
+  {
+    "id": "53",
+    "d": "After the first British performance of the Overture from Felix Mendelssohn's A Midsummer Night's Dream, the composer Thomas Attwood lost the score in a cab and never recovered. Mendelssohn rewrote the entire score from memory",
+    "t": [
+      "mendelssohn",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "54",
+    "d": "Giuseppe Verdi was rejected from the Conservatory of Milan in 1832. The same conservatory is now named after Verdi",
+    "t": [
+      "verdi",
+      "opera",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "55",
+    "d": "In 1580, a certain Veit Bach had a son called Hans, who became the first professional musician in his family. Also known as der Spielmann, Hans Bach was the great-grandfather of Johann Sebastian Bach, who was born in 1685 at Eisenach",
+    "t": [
+      "bach",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "56",
+    "d": "'Such is the spell of your emotional world that it very nearly blinds us to the greatness of your craftsmanship' - Franz Liszt on Franz Schubert",
+    "t": [
+      "schubert",
+      "liszt"
     ]
   }
 ]
