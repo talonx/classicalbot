@@ -428,5 +428,54 @@
       "schubert",
       "liszt"
     ]
+  },
+  {
+    "id": "57",
+    "d": "The word orchestra is derived from a Greek word which means the name for the area in front of a stage in ancient Greek theatre performances where the chorus would sing",
+    "t": [
+      "orchestra",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "58",
+    "d": "Wojciech Żywny was a Polish pianist, violinist, teacher, and composer of the 19th century. He is better know as Frédéric Chopin's first professional piano teacher",
+    "t": [
+      "chopin",
+      "wojciechzywny"
+    ]
+  },
+  {
+    "id": "59",
+    "d": "A chess match held in 1937 between Sergei Prokofiev and David Oistrakh at Moscow. It's generally believed that Prokofiev won the match, and the two musicians remained lifelong friends",
+    "t": [
+      "prokofiev",
+      "davidoistrakh"
+    ]
+  },
+  {
+    "id": "60",
+    "d": "Eugène Ysaÿe, the legendary violinist, played in the first ever concert at Wigmore Hall, London, along with pianist Ferruccio Busoni in 1901. Wigmore Hall is known for its performances of chamber music",
+    "t": [
+      "ysaÿe",
+      "busoni",
+      "wigmorehall"
+    ]
+  },
+  {
+    "id": "61",
+    "d": "Yehudi Mehunin gave his first concert at the age of 7 with the San Francisco Symphony Orchestra, although he had previously appeared as an accompanist when he was 5 years old. ",
+    "t": [
+      "schubert",
+      "liszt"
+    ]
+  },
+  {
+    "id": "62",
+    "d": "Marcel Tabuteau, the well-known and influential oboist, was well known for his assertion that musical expression is teachable",
+    "t": [
+      "marceltabuteau",
+      "oboists"
+    ]
   }
 ]
