@@ -477,5 +477,45 @@
       "marceltabuteau",
       "oboists"
     ]
+  },
+  {
+    "id": "63",
+    "d": "The Hungarian violinist, conductor, and composer Leopold Auer was initially harshly criticized for his playing by St. Petersburg critics, which changed when Tchaikovsky's expressed admiration for his playing. Auer went on to stay in Russia for 49 years. ",
+    "t": [
+      "leopoldauer",
+      "tchaikovsky"
+    ]
+  },
+  {
+    "id": "64",
+    "d": "Nikolai Rimsky-Korsakov was one of the five Russian composers known as The Five, who created a distinct national style of music in Russia in the 19th century. ",
+    "t": [
+      "rimsky-korsakov",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "65",
+    "d": "Joseph Joachim, one of the most significan violinists of the 19th century, collaborated closely with Brahms. He premiered Brahms' violin concerto in 1879. ",
+    "t": [
+      "josephjoachim",
+      "brahms"
+    ]
+  },
+  {
+    "id": "66",
+    "d": "The English composer Edward Elgar started his working life as a clerk in a local solicitor's office. ",
+    "t": [
+      "elgar"
+    ]
+  },
+  {
+    "id": "67",
+    "d": "Anton Rubinstein, the Russian pianist, composer, and conductor, founded the St. Petersburg Conservatory - the first in Russia. His younger brother Nikolai Rubinstein founded the Moscow Conservatory. ",
+    "t": [
+      "antonrubinstein",
+      "nikolairubinstein",
+      "musichistory"
+    ]
   }
 ]
