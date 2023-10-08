@@ -517,5 +517,43 @@
       "nikolairubinstein",
       "musichistory"
     ]
+  },
+  {
+    "id": "68",
+    "d": "I'm not interested in having an orchestra sound like itself. I want it to sound like the composer. - Leonard Bernstein, the legendary American conductor and composer ",
+    "t": [
+      "leonardbernstein",
+      "conductors"
+    ]
+  },
+  {
+    "id": "69",
+    "d": "Benjamin Britten, one of the most prominent British composers of the 20th century, was the first composer to be honoured with a life peerage. ",
+    "t": [
+      "benjaminbritten"
+    ]
+  },
+  {
+    "id": "70",
+    "d": "The English composer William Boyce started his career as a choirboy at St. Paul's Cathedral. He became deaf towards the last two decades of his life. ",
+    "t": [
+      "williamboyce"
+    ]
+  },
+  {
+    "id": "71",
+    "d": "Thomas Linley the younger was also known as the English Mozart. Thomas and Wolfgang Amadeus Mozart met when both were teenagers and became close friends. ",
+    "t": [
+      "thomaslinleytheyounger",
+      "mozart",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "72",
+    "d": "Mozart allegedly wrote out Gregorio Allegri's Miserere from memory after hearing it twice. The score of this music was closely guarded by the Vatican. Although the authenticity of this anecdote is disputed, Mozart evidently had the ability to compose on the spot. ",
+    "t": [
+      "mozart"
+    ]
   }
 ]
