@@ -131,7 +131,7 @@
   },
   {
     "id": "19",
-    "d": "The late Rennaisance composer Orlando de Lasso was apparently was kidnapped three times because of his beautiful singing voice in his early years ",
+    "d": "The late Rennaisance composer Orlando de Lasso apparently was kidnapped three times because of his beautiful singing voice in his early years ",
     "t": [
       "orlandodelasso",
       "musichistory"
@@ -554,6 +554,44 @@
     "d": "Mozart allegedly wrote out Gregorio Allegri's Miserere from memory after hearing it twice. The score of this music was closely guarded by the Vatican. Although the authenticity of this anecdote is disputed, Mozart evidently had the ability to compose on the spot. ",
     "t": [
       "mozart"
+    ]
+  },
+  {
+    "id": "73",
+    "d": "Carl Philipp Emanuel Bach, the fifth son of J S Bach, was also known as the Berlin Bach and the Hamburg Bach, when he lived and worked in those cities. His second name was in honour of Telemann, his godfather. ",
+    "t": [
+      "cpebach",
+      "baroque"
+    ]
+  },
+  {
+    "id": "74",
+    "d": "You play Bach your way, and I play it his way - Wanda Landowska said this to Pablo Casals, the cellist. Landowska is known for her role in reviving the popularity of the harpsichord in the early 20th century. ",
+    "t": [
+      "landowska",
+      "pablocasals",
+      "harpsichord"
+    ]
+  },
+  {
+    "id": "75",
+    "d": "Gustav Mahler's Symphony No. 1 had a second movement called Blumine which was discarded after the first three performances. In recent years, some conductors have chosen to include it in performances of the 1st symphony while others have not. ",
+    "t": [
+      "mahler"
+    ]
+  },
+  {
+    "id": "76",
+    "d": "Mozart allegedly wrote out Gregorio Allegri's Miserere from memory after hearing it twice. The score of this music was closely guarded by the Vatican. Although the authenticity of this anecdote is disputed, Mozart evidently had the ability to compose on the spot. ",
+    "t": [
+      "mozart"
+    ]
+  },
+  {
+    "id": "77",
+    "d": "Haydn's oratorio The Creation was inspired by Handel's Messiah and Israel in Egypt. The libretto, or text, was inspired by both scriptural sources as well as Milton's Paradise Lost. ",
+    "t": [
+      "haydn"
     ]
   }
 ]
