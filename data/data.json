@@ -593,5 +593,47 @@
     "t": [
       "haydn"
     ]
+  },
+  {
+    "id": "78",
+    "d": "The Argentine composer Astor Piazzolla (1921-1992) transformed the traditional Argentine tango music into a new form called nuevo tango, incorporating jazz and classical music elements. ",
+    "t": [
+      "astorpiazzolla",
+      "tango"
+    ]
+  },
+  {
+    "id": "79",
+    "d": "Murray Perahia, the American pianist and conductor, has won 3 Grammy awards and the first and only Piano Award as part of the Gramophone Classical Music Awards. ",
+    "t": [
+      "murrayperahia"
+    ]
+  },
+  {
+    "id": "80",
+    "d": "Daniil Trifonov, the Russian pianist and composer, was born to a composer father and a music teacher mother. At his first performance with an orchestra, he lost one of his baby teeth. ",
+    "t": [
+      "daniiltrifonov"
+    ]
+  },
+  {
+    "id": "81",
+    "d": "The 'Big Five' is a term applied to 5 American symphony orchestras - the New York Philharmonic, Boston Symphony Orchestra, Chicago Symphony Orchestra, Philadelphia Orchestra and Cleveland Orchestra. ",
+    "t": [
+      "newyorkphilharmonic",
+      "bostonsymphony",
+      "chicagosymphony",
+      "philadelphiaorchestra",
+      "clevelandorchestra"
+    ]
+  },
+  {
+    "id": "82",
+    "d": "Arnold Schoenberg along with Alban Berg and Anton Webern was one of the leaders of the Second Viennese School, characterized by music that lacked a tonal center, or atonality. ",
+    "t": [
+      "schoenberg",
+      "webern",
+      "berg"
+    ]
   }
 ]
