@@ -635,5 +635,37 @@
       "webern",
       "berg"
     ]
+  },
+  {
+    "id": "83",
+    "d": "The Spanish pianist Isaac Albéniz never composed for the guitar but transcriptions of many of his pieces (Asturias, Granada, Mallorca) are an important part of the classical guitar repertoire. ",
+    "t": [
+      "albéniz",
+      "classicalguitar"
+    ]
+  },
+  {
+    "id": "84",
+    "d": "Daniel Barenboim and Edward Said jointly formed the West–Eastern Divan Orchestra in 1999, with musicians from Israel, the Palestine and Arab countries to study and perform together. Barenboim and Said jointly received the 2002 Prince of Asturias Awards for their work in 'improving understanding between nations'. ",
+    "t": [
+      "barenboim",
+      "said"
+    ]
+  },
+  {
+    "id": "85",
+    "d": "'I have written a work that is all clarity and vivacity, full of colour and melody' - Georges Bizet said about his most well known opera Carmen. ",
+    "t": [
+      "bizet",
+      "carmen",
+      "opera"
+    ]
+  },
+  {
+    "id": "86",
+    "d": "The French composer and pianist Erik Satie referred to himself as a 'phonometrician' - somebody who measures sounds. ",
+    "t": [
+      "satie"
+    ]
   }
 ]
