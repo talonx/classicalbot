@@ -25,6 +25,7 @@
     "d": "Hildegard of Bingen is one of the few known women composers from the Middle Ages. She was a nun, philosopher, mystic, and a medical writer, and she was declared a saint of the Roman Catholic Church in 2012 ",
     "t": [
       "hildegardofbingen",
+      "womeninclassicalmusic",
       "musichistory"
     ]
   },
@@ -224,7 +225,7 @@
     "d": "Nadia Boulanger was one of the first women to conduct major orchestras in the US and Europe. Starting as a student at the Paris Conservatory, she went on to influence generations of other composers throughout her life as a teacher ",
     "t": [
       "boulanger",
-      "womeninmusic"
+      "womeninclassicalmusic"
     ]
   },
   {
@@ -666,6 +667,37 @@
     "d": "The French composer and pianist Erik Satie referred to himself as a 'phonometrician' - somebody who measures sounds. ",
     "t": [
       "satie"
+    ]
+  },
+  {
+    "id": "87",
+    "d": "Francesca Caccini, the Italian composer, singer, poet, and lutenist of the early Baroque, wrote La liberazione di Ruggiero - the oldest opera by a woman composer. It is also her only surviving stage work. ",
+    "t": [
+      "francescacaccini",
+      "opera",
+      "womeninclassicalmusic"
+    ]
+  },
+  {
+    "id": "88",
+    "d": "Carolina Oliphant, also known Lady Nairne, was a Scottish songwriter, some of whose songs remain highly popular today. She concealed her achievements by remaining anonymous throughout her life. A crater on Mercury was named in her honour in 2022. ",
+    "t": [
+      "carolinaoliphant",
+      "womeninclassicalmusic"
+    ]
+  },
+  {
+    "id": "89",
+    "d": "Gabriel Fauré, widely regarded as the greatest master of French art song, was the only one among his siblings to display musical talent. He was later taught by Camille Saint-Saëns and both remained friends until the latter's death. ",
+    "t": [
+      "gabrielfauré"
+    ]
+  },
+  {
+    "id": "90",
+    "d": "The Brazilian composer Heitor Villa-Lobos learned to play the cello when he was 6, and learnt music by observing the regular musical evenings at his home organized by his father. ",
+    "t": [
+      "villa-lobos"
     ]
   }
 ]
