@@ -184,7 +184,7 @@
   },
   {
     "id": "27",
-    "d": "Ludwig van Beethoven's Symphony No. 3, also known as 'Eroica'. which means 'heroic', was originally dedicated to Napoleon Bonaparte, but later withdrew it ",
+    "d": "Ludwig van Beethoven originally dedicated his Symphony No. 3, also known as 'Eroica'. which means 'heroic', to Napoleon Bonaparte, but later withdrew it ",
     "t": [
       "beethoven"
     ]
@@ -193,14 +193,16 @@
     "id": "28",
     "d": "Barbara Strozzi, an Italian composer and singer of the Baroque period, had more secular music in print than any other composer of the era ",
     "t": [
-      "strozzi"
+      "strozzi",
+      "womeninclassicalmusic"
     ]
   },
   {
     "id": "29",
     "d": "George Frideric Handel's best known work Messiah was composed in 1741 and premiered in Dublin in 1742. This English oratorio consists of 53 movements in 3 parts ",
     "t": [
-      "handel"
+      "handel",
+      "baroque"
     ]
   },
   {
@@ -698,6 +700,36 @@
     "d": "The Brazilian composer Heitor Villa-Lobos learned to play the cello when he was 6, and learnt music by observing the regular musical evenings at his home organized by his father. ",
     "t": [
       "villa-lobos"
+    ]
+  },
+  {
+    "id": "91",
+    "d": "The Galant style of music was prevalent from the 1720s to the 1770s. It was a response to the complexity of Baroque music, and emphasised simplicity and simpler melodies. ",
+    "t": [
+      "musichistory"
+    ]
+  },
+  {
+    "id": "92",
+    "d": "Carl Heinrich Graun, the 18th century German composer and tenor, wrote a number of operas but they are rarely perfomed today. His great-great-great-great-grandson Vladimir Nabokov was well known as a novelist. ",
+    "t": [
+      "graun"
+    ]
+  },
+  {
+    "id": "93",
+    "d": "Although Antonio Salieri and Wolfgang Amadeus Mozart are known to have been bitter rivals in popular culture, new evidence indicates the mutual respect they showed for each other's work. Salieri also taught Mozart's youngest son Franz Xaver. ",
+    "t": [
+      "mozart",
+      "salieri",
+      "musichistory"
+    ]
+  },
+  {
+    "id": "94",
+    "d": "The Italian guitarist Mauro Giuliani learnt the cello as his first instrument. Subsequently, he chose the guitar and became well known as a virtuoso performer. Guiliani defined a new role for the guitar in European music. ",
+    "t": [
+      "giuliani"
     ]
   }
 ]
